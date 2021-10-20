@@ -1,1 +1,3 @@
-# 1030516730_BS435_WebProgramlama
+# Öğrenci Numarası: 1030516730
+# Öğrenci Adı: Yusuf Siyasal
+# Ders Adı: Web Programlama
